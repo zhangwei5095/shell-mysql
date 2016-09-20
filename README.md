@@ -1,4 +1,5 @@
 # shell-mysql
+使用shell脚本分页读取MySQL数据
 
 ###脚本背景
 **由于要在Linux上，远程读取mysql的表的数据，然后做一定清洗后，把数据上传至Hadoop集群中，使用Java写吧，感觉太麻烦了，得在Win上开发好，还得打成jar包，
